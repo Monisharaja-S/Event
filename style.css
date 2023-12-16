@@ -1,0 +1,38 @@
+
+.border{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color:darkmagenta;
+    color:bisque;
+  
+  }
+
+  .outer{
+    border: 2px solid;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: right;
+    background-color:darkorchid;
+    }
+
+  .image{
+    border: 1px solid black;
+    padding: 30px ;
+    margin-right: 100px;
+  background-color:mediumorchid;
+  display: flex;
+width:350px;
+height:350px;
+
+  }
+
+  .oval{
+    max-width: 100%;
+    border-radius: 50%;
+
+  }
+
+  
